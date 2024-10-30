@@ -6,3 +6,5 @@
 !.vscode/settings.json  # Example: keep settings.json
 !.vscode/launch.json    # Example: keep launch.json
 !.vscode/tasks.json     # Example: keep tasks.json
+
+.gitignore
